@@ -72,11 +72,20 @@ The forecast is imported into Power BI and displayed through custom visuals.
 
 ## 📁 Project Structure
 
-📦 Olist-Ecommerce-Analytics-PowerBI
-│
-├── 📊 Olist_Project.pbix → Power BI dashboard
-├── 📄 Business Data Analytics Project Report.pdf
-├── 📘 README.md → Project documentation
+📦 **Olist-Ecommerce-Analytics-PowerBI**  
+│  
+├── 📂 **screenshots**  
+│   ├── Category & Revenue Insights dashboard.png  
+│   ├── Customer Segmentation (RFM) dashboard.png  
+│   ├── Data Model view.png  
+│   ├── Executive Overview dashboard.png  
+│   ├── Revenue Forecast (Python) dashboard.png  
+│  
+├── 📊 **Olist_Project.pbix** — Power BI dashboard  
+├── 📄 **Business Data Analytics Project Report.pdf** — Full project report  
+├── 🐍 **forecast_model.py** — SARIMAX forecasting script  
+├── 📘 **README.md** — Project documentation  
+
 
 ---
 
