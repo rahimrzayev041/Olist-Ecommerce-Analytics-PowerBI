@@ -53,20 +53,20 @@ The forecast is imported into Power BI and displayed through custom visuals.
 
 ## 📸 Dashboard Screenshots
 
-### 1. Executive Overview
-![Executive Overview](screenshots/executive_overview.png)
+### 1. Executive Overview  
+![Executive Overview](screenshots/Executive%20Overview%20dashboard.png)
 
-### 2. Category & Revenue Insights
-![Category & Revenue Insights](screenshots/category_revenue_insights.png)
+### 2. Category & Revenue Insights  
+![Category & Revenue Insights](screenshots/Category%20%26%20Revenue%20Insights%20dashboard.png)
 
-### 3. Customer Segmentation (RFM)
-![Customer Segmentation Dashboard](screenshots/rfm_dashboard.png)
+### 3. Customer Segmentation (RFM)  
+![Customer Segmentation (RFM)](screenshots/Customer%20Segmentation%20(RFM)%20dashboard.png)
 
-### 4. Revenue Forecast (Python)
-![Revenue Forecast](screenshots/revenue_forecast.png)
+### 4. Revenue Forecast (Python)  
+![Revenue Forecast](screenshots/Revenue%20Forecast%20(Python)%20dashboard.png)
 
-### 5. Data Model (Star Schema)
-![Data Model](screenshots/data_model.png)
+### 5. Data Model (Star Schema)  
+![Data Model](screenshots/Data%20Model%20view.png)
 
 ---
 
